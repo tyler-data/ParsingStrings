@@ -1,5 +1,5 @@
-# Python - Medical Insurance - Data Cleansing
- In this journal, I took a string variable containing messy medical insurance records, cleansed the data, and outputted meaningful, structured data.
+# Parsing Strings
+ In this Notebook, I took a string variable containing messy medical insurance records, cleansed the data, and outputted meaningful, structured data.
 
 
 I've accomplished the following in 3 steps: 
